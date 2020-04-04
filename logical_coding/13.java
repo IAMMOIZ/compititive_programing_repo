@@ -1,0 +1,1 @@
+// program to accept three number and print them in ascending and decending order
