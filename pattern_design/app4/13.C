@@ -11,7 +11,7 @@ EDCBA
 int main()
 {
     int row , column , space;
-    char a='E',b;
+    char a='E',b;h
     for(row = 1; row <= 5; row++)
     {
         b=a;
