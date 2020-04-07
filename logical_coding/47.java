@@ -1,0 +1,1 @@
+//program to check whether number is neven number or harshed number

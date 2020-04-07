@@ -1,0 +1,1 @@
+//find area of triangle by usign herons formula
